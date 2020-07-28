@@ -2,7 +2,7 @@
 
 A collection of duck pictures clebrating holidays from [daysoftheyear](https://www.daysoftheyear.com)
  
- | Duck of the day 
+Link | Duck of the day 
 --- | --- 
 [02/18 Drink Wine Day](https://www.daysoftheyear.com/days/drink-wine-day) | ![02-18](./images/02-18.png) 
 [03/10 International Bagpipe Day](https://www.daysoftheyear.com/days/international-bagpipe-day) | ![03-10](./images/03-10.png) 
