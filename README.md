@@ -5,7 +5,7 @@ A collection of duck pictures clebrating holidays from [daysoftheyear](https://w
 Day | Link | Duck of the day 
 --- | --- | --- 
 02/18 | [Drink Wine Day](https://www.daysoftheyear.com/days/drink-wine-day) | ![02-18](./images/02-18.png) 
-03/10 | [International Bagpipe Day](https://www.daysoftheyear.com/days/international-bagpipe-day) | ![03-10](./images/03-10.png) 
+03/10 | [International Bagpipe Day](https://www.daysoftheyear.com/days/international-bagpipe-day) | ![03-10](./images/03-10.png)<sup>[1](#myfootnote1)</sup> 
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
@@ -15,3 +15,5 @@ Day | Link | Duck of the day
 07/28 | [Milk Chocolate Day](https://www.daysoftheyear.com/days/milk-chocolate-day) | ![07-28](./images/07-28.png)
 07/29 | [Rain Day](https://www.daysoftheyear.com/days/rain-day) | ![07-29](./images/07-29.png)
 
+
+<a name="myfootnote1">1</a>: Image created by @u-fischer
