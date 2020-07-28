@@ -30,4 +30,6 @@ A collection of duck pictures clebrating holidays from [daysoftheyear](https://w
 - [07/28 Milk Chocolate Day](https://www.daysoftheyear.com/days/milk-chocolate-day)
 ![07-28](./images/07-28.png)
 
+- [07/29 Rain Day](https://www.daysoftheyear.com/days/rain-day)
+![07-29](./images/07-29.png)
 
