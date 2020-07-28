@@ -4,3 +4,4 @@ A collection of duck pictures clebrating holidays from [daysoftheyear](https://w
 
 ### [07/23 Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day)
 
+![07-23](./images/07-23.png)
