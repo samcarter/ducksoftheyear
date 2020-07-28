@@ -16,4 +16,4 @@ Day | Link | Duck of the day
 07/29 | [Rain Day](https://www.daysoftheyear.com/days/rain-day) | ![07-29](./images/07-29.png)
 
 
-<a name="myfootnote1">1</a>: Image created by @u-fischer
+<sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
