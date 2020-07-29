@@ -14,6 +14,7 @@ Day | Link | Duck of the day
 07/27 | [Take your Houseplant for a Walk Day](https://www.daysoftheyear.com/days/take-your-houseplant-for-a-walk-day) | ![07-27](./images/07-27.png)
 07/28 | [Milk Chocolate Day](https://www.daysoftheyear.com/days/milk-chocolate-day) | ![07-28](./images/07-28.png)
 07/29 | [Rain Day](https://www.daysoftheyear.com/days/rain-day) | ![07-29](./images/07-29.png)
+07/30 | [Paperback Book Day](https://www.daysoftheyear.com/days/paperback-book-day) | ![07-30](./images/07-23.png)
 
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
