@@ -16,6 +16,6 @@ Day | Link | Duck of the day
 07/29 | [Rain Day](https://www.daysoftheyear.com/days/rain-day) | ![07-29](./images/07-29.png)
 07/30 | [Paperback Book Day](https://www.daysoftheyear.com/days/paperback-book-day) | ![07-30](./images/07-30.png)
 07/31 | [Raspberry Cake Day](https://www.daysoftheyear.com/days/raspberry-cake-day) | ![07-31](./images/07-31.png)
-
+08/01 | [World Scout Scarf Day](https://www.daysoftheyear.com/days/world-scout-scarf-day) | ![08-01](./images/08-01.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
