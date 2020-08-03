@@ -19,6 +19,6 @@ Day | Link | Duck of the day
 08/01 | [World Scout Scarf Day](https://www.daysoftheyear.com/days/world-scout-scarf-day) | ![08-01](./images/08-01.png)
 08/02 | [Colouring Book Day](https://www.daysoftheyear.com/days/coloring-book-day) | ![08-02](./images/08-02.png)
 08/03 | [Watermelon Day](https://www.daysoftheyear.com/days/watermelon-day) | ![08-03](./images/08-03.png)
-
+08/04 | [International Clouded Leopard Day](https://www.daysoftheyear.com/days/international-clouded-leopard-day/) | ![08-04](./images/08-04.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
