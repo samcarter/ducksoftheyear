@@ -22,5 +22,6 @@ Day | Link | Duck of the day
 08/04 | [International Clouded Leopard Day](https://www.daysoftheyear.com/days/international-clouded-leopard-day/) | ![08-04](./images/08-04.png)
 08/05 | [Oyster Day](https://www.daysoftheyear.com/days/oyster-day) | ![08-05](./images/08-05.png)
 08/06 | [Farmworker Appreciation Day](https://www.daysoftheyear.com/days/farmworker-appreciation-day) | ![08-06](./images/08-06.png)
+08/07 | [International Beer Day](https://www.daysoftheyear.com/days/international-beer-day) | ![08-07](./images/08-07.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
