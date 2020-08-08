@@ -23,5 +23,6 @@ Day | Link | Duck of the day
 08/05 | [Oyster Day](https://www.daysoftheyear.com/days/oyster-day) | ![08-05](./images/08-05.png)
 08/06 | [Farmworker Appreciation Day](https://www.daysoftheyear.com/days/farmworker-appreciation-day) | ![08-06](./images/08-06.png)
 08/07 | [International Beer Day](https://www.daysoftheyear.com/days/international-beer-day) | ![08-07](./images/08-07.png)
+08/08 | [International Cat Day](https://www.daysoftheyear.com/days/international-cat-day) | ![08-08](./images/08-08.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
