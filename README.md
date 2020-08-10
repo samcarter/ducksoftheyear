@@ -25,5 +25,6 @@ Day | Link | Duck of the day
 08/07 | [International Beer Day](https://www.daysoftheyear.com/days/international-beer-day) | ![08-07](./images/08-07.png)
 08/08 | [International Cat Day](https://www.daysoftheyear.com/days/international-cat-day) | ![08-08](./images/08-08.png)
 08/09 | [Rice Pudding Day](https://www.daysoftheyear.com/days/rice-pudding-day) | ![08-09](./images/08-09.png)
+08/10 | [Lazy Day](https://www.daysoftheyear.com/days/lazy-day) | ![08-10](./images/08-10.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
