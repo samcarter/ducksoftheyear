@@ -26,5 +26,6 @@ Day | Link | Duck of the day
 08/08 | [International Cat Day](https://www.daysoftheyear.com/days/international-cat-day) | ![08-08](./images/08-08.png)
 08/09 | [Rice Pudding Day](https://www.daysoftheyear.com/days/rice-pudding-day) | ![08-09](./images/08-09.png)
 08/10 | [Lazy Day](https://www.daysoftheyear.com/days/lazy-day) | ![08-10](./images/08-10.png)
+08/11 | [Play in the Sand Day](https://www.daysoftheyear.com/days/play-in-the-sand-day) | ![08-11](./images/08-11.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
