@@ -27,5 +27,7 @@ Day | Link | Duck of the day
 08/09 | [Rice Pudding Day](https://www.daysoftheyear.com/days/rice-pudding-day) | ![08-09](./images/08-09.png)
 08/10 | [Lazy Day](https://www.daysoftheyear.com/days/lazy-day) | ![08-10](./images/08-10.png)
 08/11 | [Play in the Sand Day](https://www.daysoftheyear.com/days/play-in-the-sand-day) | ![08-11](./images/08-11.png)
+08/12 | [World Elephant Day](https://www.daysoftheyear.com/days/world-elephant-day) | ![08-12](./images/08-12.png)
+
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
