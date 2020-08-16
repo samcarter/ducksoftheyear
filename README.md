@@ -29,6 +29,10 @@ Day | Link | Duck of the day
 08/11 | [Play in the Sand Day](https://www.daysoftheyear.com/days/play-in-the-sand-day) | ![08-11](./images/08-11.png)
 08/12 | [World Elephant Day](https://www.daysoftheyear.com/days/world-elephant-day) | ![08-12](./images/08-12.png)
 08/14 | [Creamsicle Day](https://www.daysoftheyear.com/days/creamsicle-day) | ![08-14](./images/08-14.png)
+08/15 | [World Honey Bee Day](https://www.daysoftheyear.com/days/world-honey-bee-day) | ![08-15](./images/08-15.png)
+08/16 | [World Bratwurst Day](https://www.daysoftheyear.com/days/world-bratwurst-day) | ![08-16](./images/08-16.png)
+08/17 | [Black Cat Appreciation Day](https://www.daysoftheyear.com/days/black-cat-appreciation-day) | ![08-17](./images/08-17.png)
+
 
 
 
