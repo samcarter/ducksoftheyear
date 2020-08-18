@@ -33,6 +33,8 @@ Day | Link | Duck of the day
 08/16 | [World Bratwurst Day](https://www.daysoftheyear.com/days/world-bratwurst-day) | ![08-16](./images/08-16.png)
 08/17 | [Black Cat Appreciation Day](https://www.daysoftheyear.com/days/black-cat-appreciation-day) | ![08-17](./images/08-17.png)
 08/18 | [Bad Poetry Day](https://www.daysoftheyear.com/days/bad-poetry-day) | ![08-18](./images/08-18.png)
+08/19 | [Aviation day](https://www.daysoftheyear.com/days/aviation-day) | ![08-19](./images/08-19.png)
+
 
 
 
