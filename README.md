@@ -38,6 +38,7 @@ Day | Link | Duck of the day
 08/21 | [Senior Citizens Day](https://www.daysoftheyear.com/days/senior-citizens-day) | ![08-21](./images/08-21.png)
 
 
+08/22 | [Eat a Peach Day](https://www.daysoftheyear.com/days/eat-a-peach-day) | ![08-22](./images/08-22.png)
 
 
 
