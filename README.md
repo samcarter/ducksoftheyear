@@ -39,6 +39,7 @@ Day | Link | Duck of the day
 
 
 08/22 | [Eat a Peach Day](https://www.daysoftheyear.com/days/eat-a-peach-day) | ![08-22](./images/08-22.png)
+08/23 | [Ride the Wind Day](https://www.daysoftheyear.com/days/ride-the-wind-day) | ![08-23](./images/08-23.png)
 
 
 
