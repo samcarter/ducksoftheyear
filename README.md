@@ -36,11 +36,10 @@ Day | Link | Duck of the day
 08/19 | [Aviation day](https://www.daysoftheyear.com/days/aviation-day) | ![08-19](./images/08-19.png)
 08/20 | [World Mosquito Day](https://www.daysoftheyear.com/days/world-mosquito-day) | ![08-20](./images/08-21.png)
 08/21 | [Senior Citizens Day](https://www.daysoftheyear.com/days/senior-citizens-day) | ![08-21](./images/08-21.png)
-
-
 08/22 | [Eat a Peach Day](https://www.daysoftheyear.com/days/eat-a-peach-day) | ![08-22](./images/08-22.png)
 08/23 | [Ride the Wind Day](https://www.daysoftheyear.com/days/ride-the-wind-day) | ![08-23](./images/08-23.png)
 08/24 | [Pluto Demoted Day](https://www.daysoftheyear.com/days/pluto-demoted-day) | ![08-24](./images/08-24.png)
+08/25 | [Banana Split Day](https://www.daysoftheyear.com/days/banana-split-day/) | ![08-25](./images/08-25.png)
 08/27 | [International Bat Night](https://www.daysoftheyear.com/days/international-bat-night) | ![08-27](./images/08-27.png)
 08/28 | [Bow Tie Day](https://www.daysoftheyear.com/days/bow-tie-day) | ![08-28](./images/08-28.png)
 
