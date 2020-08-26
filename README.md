@@ -40,6 +40,7 @@ Day | Link | Duck of the day
 08/23 | [Ride the Wind Day](https://www.daysoftheyear.com/days/ride-the-wind-day) | ![08-23](./images/08-23.png)
 08/24 | [Pluto Demoted Day](https://www.daysoftheyear.com/days/pluto-demoted-day) | ![08-24](./images/08-24.png)
 08/25 | [Banana Split Day](https://www.daysoftheyear.com/days/banana-split-day/) | ![08-25](./images/08-25.png)
+08/26 | [Women's Equality Day](https://www.daysoftheyear.com/days/womens-equality-day/) | ![08-26](./images/08-26.png)
 08/27 | [International Bat Night](https://www.daysoftheyear.com/days/international-bat-night) | ![08-27](./images/08-27.png)
 08/28 | [Bow Tie Day](https://www.daysoftheyear.com/days/bow-tie-day) | ![08-28](./images/08-28.png)
 
