@@ -43,6 +43,7 @@ Day | Link | Duck of the day
 08/26 | [Women's Equality Day](https://www.daysoftheyear.com/days/womens-equality-day/) | ![08-26](./images/08-26.png)
 08/27 | [International Bat Night](https://www.daysoftheyear.com/days/international-bat-night) | ![08-27](./images/08-27.png)
 08/28 | [Bow Tie Day](https://www.daysoftheyear.com/days/bow-tie-day) | ![08-28](./images/08-28.png)
+08/30 | [Frankenstein Day](https://www.daysoftheyear.com/days/frankenstein-day/) | ![08-30](./images/08-30.png)
 
 
 
