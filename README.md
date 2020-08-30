@@ -1,6 +1,6 @@
 # ducksoftheyear
 
-A collection of duck pictures clebrating holidays from [daysoftheyear](https://www.daysoftheyear.com)
+A collection of duck pictures celebrating holidays from [daysoftheyear](https://www.daysoftheyear.com)
  
 Day | Link | Duck of the day 
 --- | --- | --- 
@@ -34,7 +34,7 @@ Day | Link | Duck of the day
 08/17 | [Black Cat Appreciation Day](https://www.daysoftheyear.com/days/black-cat-appreciation-day) | ![08-17](./images/08-17.png)
 08/18 | [Bad Poetry Day](https://www.daysoftheyear.com/days/bad-poetry-day) | ![08-18](./images/08-18.png)
 08/19 | [Aviation day](https://www.daysoftheyear.com/days/aviation-day) | ![08-19](./images/08-19.png)
-08/20 | [World Mosquito Day](https://www.daysoftheyear.com/days/world-mosquito-day) | ![08-20](./images/08-21.png)
+08/20 | [World Mosquito Day](https://www.daysoftheyear.com/days/world-mosquito-day) | ![08-20](./images/08-20.png)
 08/21 | [Senior Citizens Day](https://www.daysoftheyear.com/days/senior-citizens-day) | ![08-21](./images/08-21.png)
 08/22 | [Eat a Peach Day](https://www.daysoftheyear.com/days/eat-a-peach-day) | ![08-22](./images/08-22.png)
 08/23 | [Ride the Wind Day](https://www.daysoftheyear.com/days/ride-the-wind-day) | ![08-23](./images/08-23.png)
