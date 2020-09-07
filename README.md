@@ -50,6 +50,7 @@ Day | Link | Duck of the day
 09/04 | [Newspaper Carrier Day](https://www.daysoftheyear.com/days/newspaper-carrier-day) | ![09-04](./images/09-04.png)
 09/05 | [Beard Day](https://www.daysoftheyear.com/days/beard-day) | ![09-05](./images/09-05.png)
 09/06 | [Coffee Ice Cream Day](https://www.daysoftheyear.com/days/coffee-ice-cream-day) | ![09-06](./images/09-06.png)
+09/07 | [Buy a Book Day](https://www.daysoftheyear.com/days/buy-a-book-day) | ![09-07](./images/09-07.png)
 09/08 | [Star Trek Day](https://www.daysoftheyear.com/days/star-trek-day) | ![09-08](./images/09-08.png)
 09/09 | [Teddy Bear Day](https://www.daysoftheyear.com/days/teddy-bear-day) | ![09-09](./images/09-09.png)
 
