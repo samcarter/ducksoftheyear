@@ -53,7 +53,7 @@ Day | Link | Duck of the day
 09/07 | [Buy a Book Day](https://www.daysoftheyear.com/days/buy-a-book-day) | ![09-07](./images/09-07.png)
 09/08 | [Star Trek Day](https://www.daysoftheyear.com/days/star-trek-day) | ![09-08](./images/09-08.png)
 09/09 | [Teddy Bear Day](https://www.daysoftheyear.com/days/teddy-bear-day) | ![09-09](./images/09-09.png)
-
+09/10 | [Alpaca Day](https://www.daysoftheyear.com/days/alpaca-day) | ![09-10](./images/09-10.png)
 
 
 
