@@ -54,6 +54,7 @@ Day | Link | Duck of the day
 09/08 | [Star Trek Day](https://www.daysoftheyear.com/days/star-trek-day) | ![09-08](./images/09-08.png)
 09/09 | [Teddy Bear Day](https://www.daysoftheyear.com/days/teddy-bear-day) | ![09-09](./images/09-09.png)
 09/10 | [Alpaca Day](https://www.daysoftheyear.com/days/alpaca-day) | ![09-10](./images/09-10.png)
+09/11 | [No News is Good News Day](https://www.daysoftheyear.com/days/no-news-is-good-news-day) | ![09-11](./images/09-11.png)
 09/12 | [Chocolate Milkshake Day](https://www.daysoftheyear.com/days/chocolate-milkshake-day) | ![09-12](./images/09-12.png)
 
 
