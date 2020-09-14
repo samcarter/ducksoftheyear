@@ -56,6 +56,7 @@ Day | Link | Duck of the day
 09/10 | [Alpaca Day](https://www.daysoftheyear.com/days/alpaca-day) | ![09-10](./images/09-10.png)
 09/11 | [No News is Good News Day](https://www.daysoftheyear.com/days/no-news-is-good-news-day) | ![09-11](./images/09-11.png)
 09/12 | [Chocolate Milkshake Day](https://www.daysoftheyear.com/days/chocolate-milkshake-day) | ![09-12](./images/09-12.png)
+09/14 | [Cream Filled Doughnut Day](https://www.daysoftheyear.com/days/cream-filled-doughnut-day) | ![09-14](./images/09-14.png)
 
 
 
