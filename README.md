@@ -58,8 +58,7 @@ Day | Link | Duck of the day
 09/12 | [Chocolate Milkshake Day](https://www.daysoftheyear.com/days/chocolate-milkshake-day) | ![09-12](./images/09-12.png)
 09/14 | [Cream Filled Doughnut Day](https://www.daysoftheyear.com/days/cream-filled-doughnut-day) | ![09-14](./images/09-14.png)
 09/15 | [Batman Day](https://www.daysoftheyear.com/days/batman-day) | ![09-15](./images/09-15.png)
-
-
 09/17 | [International Country Music Day](https://www.daysoftheyear.com/days/international-country-music-day) | ![09-17](./images/09-17.png)
+09/18 | [Grenache Day](https://www.daysoftheyear.com/days/grenache-day) | ![09-18](./images/09-18.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
