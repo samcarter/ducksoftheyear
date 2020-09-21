@@ -61,5 +61,7 @@ Day | Link | Duck of the day
 09/17 | [International Country Music Day](https://www.daysoftheyear.com/days/international-country-music-day) | ![09-17](./images/09-17.png)
 09/18 | [Grenache Day](https://www.daysoftheyear.com/days/grenache-day) | ![09-18](./images/09-18.png)
 09/19 | [Talk Like a Pirate Day](https://www.daysoftheyear.com/days/talk-like-a-pirate-day) | ![09-19](./images/09-19.png)<sup>[1](#myfootnote1)</sup>
+09/21 | [Miniature Golf Day](https://www.daysoftheyear.com/days/miniature-golf-day/) | ![09-21](./images/09-21.png)
+
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
