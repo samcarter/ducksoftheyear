@@ -63,6 +63,7 @@ Day | Link | Duck of the day
 09/19 | [Talk Like a Pirate Day](https://www.daysoftheyear.com/days/talk-like-a-pirate-day) | ![09-19](./images/09-19.png)<sup>[1](#myfootnote1)</sup>
 09/21 | [Miniature Golf Day](https://www.daysoftheyear.com/days/miniature-golf-day) | ![09-21](./images/09-21.png)
 09/22 | [World Rhino Day](https://www.daysoftheyear.com/days/world-rhino-day) | ![09-22](./images/09-22.png)
+09/23 | [International Day of Sign Languages](https://www.daysoftheyear.com/days/international-day-of-sign-languages) | ![09-23](./images/09-23.png)
 
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
