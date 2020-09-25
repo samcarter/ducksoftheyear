@@ -64,6 +64,9 @@ Day | Link | Duck of the day
 09/21 | [Miniature Golf Day](https://www.daysoftheyear.com/days/miniature-golf-day) | ![09-21](./images/09-21.png)
 09/22 | [World Rhino Day](https://www.daysoftheyear.com/days/world-rhino-day) | ![09-22](./images/09-22.png)
 09/23 | [International Day of Sign Languages](https://www.daysoftheyear.com/days/international-day-of-sign-languages) | ![09-23](./images/09-23.png)
+09/25 | [Hug a Vegetarian Day](https://www.daysoftheyear.com/days/hug-a-vegetarian-day) | ![09-25](./images/09-25.png)
+09/26 | [Rabbit Day](https://www.daysoftheyear.com/days/rabbit-day) | ![09-26](./images/09-26.png)
+
 
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
