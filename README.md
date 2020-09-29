@@ -69,6 +69,7 @@ Day | Link | Duck of the day
 09/27 | [Tourism Day](https://www.daysoftheyear.com/days/tourism-day) | ![09-27](./images/09-27.png)
 09/28 | [Family Day](https://www.daysoftheyear.com/days/family-day) | ![09-28](./images/09-28.png)
 09/29 | [World Heart Day](https://www.daysoftheyear.com/days/heart-day) | ![09-29](./images/09-29.png)
+09/30 | [International Translation Day](https://www.daysoftheyear.com/days/international-translation-day) | ![09-30](./images/09-30.png)
 
 
 
