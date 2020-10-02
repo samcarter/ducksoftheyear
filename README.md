@@ -71,6 +71,6 @@ Day | Link | Duck of the day
 09/29 | [World Heart Day](https://www.daysoftheyear.com/days/heart-day) | ![09-29](./images/09-29.png)
 09/30 | [International Translation Day](https://www.daysoftheyear.com/days/international-translation-day) | ![09-30](./images/09-30.png)
 10/01 | [Coffee Day](https://www.daysoftheyear.com/days/coffee-day) | ![10-01](./images/10-01.png)
-
+10/02 | [Farm Animals Day](https://www.daysoftheyear.com/days/farm-animals-day) | ![10-02](./images/10-02.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
