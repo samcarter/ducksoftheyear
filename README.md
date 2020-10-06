@@ -73,6 +73,6 @@ Day | Link | Duck of the day
 10/01 | [Coffee Day](https://www.daysoftheyear.com/days/coffee-day) | ![10-01](./images/10-01.png)
 10/02 | [Farm Animals Day](https://www.daysoftheyear.com/days/farm-animals-day) | ![10-02](./images/10-02.png)
 10/05 | [Balloons Around the World Day](https://www.daysoftheyear.com/days/balloons-around-the-world-day) | ![10-05](./images/10-05.png)
-
+10/06 | [Mad Hatter Day](https://www.daysoftheyear.com/days/mad-hatter-day) | ![10-06](./images/10-06.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
