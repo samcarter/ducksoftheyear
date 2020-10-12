@@ -76,5 +76,7 @@ Day | Link | Duck of the day
 10/06 | [Mad Hatter Day](https://www.daysoftheyear.com/days/mad-hatter-day) | ![10-06](./images/10-06.png)
 10/07 | [Bathtub Day](https://www.daysoftheyear.com/days/bathtub-day) | ![10-07](./images/10-07.png)
 10/09 | [Egg Day](https://www.daysoftheyear.com/days/egg-day) | ![10-09](./images/10-09.png)
+10/10 | [Handbag Day](https://www.daysoftheyear.com/days/handbag-day) | ![10-10](./images/10-10.png)
+10/12 | [Columbus Day](https://www.daysoftheyear.com/days/columbus-day) | ![10-12](./images/10-12.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
