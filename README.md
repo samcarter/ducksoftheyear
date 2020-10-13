@@ -80,7 +80,10 @@ Day | Link | Duck of the day
 10/12 | [Columbus Day](https://www.daysoftheyear.com/days/columbus-day) | ![10-12](./images/10-12.png)
 10/13 | [Face your Fears Day](https://www.daysoftheyear.com/days/face-your-fears-day) | ![10-13](./images/10-13.png)
 
+
+
 10/16 | [Dictionary Day](https://www.daysoftheyear.com/days/dictionary-day) | ![10-16](./images/10-16.png)
+10/17 | [Wear Something Gaudy Day](https://www.daysoftheyear.com/days/wear-something-gaudy-day) | ![10-17](./images/10-17.png)
 10/20 | [International Sloth Day](https://www.daysoftheyear.com/days/international-sloth-day) | ![10-20](./images/10-20.png)
 10/23 | [Mole Day](https://www.daysoftheyear.com/days/mole-day) | ![10-23](./images/10-23.png)
 
