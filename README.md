@@ -1,6 +1,6 @@
 # ducksoftheyear
 
-A collection of duck pictures celebrating holidays from [daysoftheyear](https://www.daysoftheyear.com)
+A collection of duck pictures celebrating holidays from (mostly) [daysoftheyear](https://www.daysoftheyear.com)
  
 Day | Link | Duck of the day 
 --- | --- | --- 
@@ -87,6 +87,6 @@ Day | Link | Duck of the day
 10/20 | [International Sloth Day](https://www.daysoftheyear.com/days/international-sloth-day) | ![10-20](./images/10-20.png)
 10/21 | [Apple Day](https://www.daysoftheyear.com/days/apple-day) | ![10-21](./images/10-21.png)
 10/23 | [Mole Day](https://www.daysoftheyear.com/days/mole-day) | ![10-23](./images/10-23.png)
-
+10/31 | [Dark Matter Day](https://www.darkmatterday.com/) | ![10-31](./images/10-31.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
