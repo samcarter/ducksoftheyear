@@ -79,8 +79,7 @@ Day | Link | Duck of the day
 10/10 | [Handbag Day](https://www.daysoftheyear.com/days/handbag-day) | ![10-10](./images/10-10.png)
 10/12 | [Columbus Day](https://www.daysoftheyear.com/days/columbus-day) | ![10-12](./images/10-12.png)
 10/13 | [Face your Fears Day](https://www.daysoftheyear.com/days/face-your-fears-day) | ![10-13](./images/10-13.png)
-
-
+10/14 | [Dessert Day](https://www.daysoftheyear.com/days/dessert-day) | ![10-14](./images/10-14.png)
 
 10/16 | [Dictionary Day](https://www.daysoftheyear.com/days/dictionary-day) | ![10-16](./images/10-16.png)
 10/17 | [Wear Something Gaudy Day](https://www.daysoftheyear.com/days/wear-something-gaudy-day) | ![10-17](./images/10-17.png)
