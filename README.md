@@ -83,6 +83,7 @@ Day | Link | Duck of the day
 10/15 | [Global Handwashing Day](https://www.daysoftheyear.com/days/global-handwashing-day) | ![10-15](./images/10-15.png)
 10/16 | [Dictionary Day](https://www.daysoftheyear.com/days/dictionary-day) | ![10-16](./images/10-16.png)
 10/17 | [Wear Something Gaudy Day](https://www.daysoftheyear.com/days/wear-something-gaudy-day) | ![10-17](./images/10-17.png)
+10/18 | [Chocolate Cupcake Day](https://www.daysoftheyear.com/days/chocolate-cupcake-day) | ![10-18](./images/10-18.png)
 10/20 | [International Sloth Day](https://www.daysoftheyear.com/days/international-sloth-day) | ![10-20](./images/10-20.png)
 10/21 | [Apple Day](https://www.daysoftheyear.com/days/apple-day) | ![10-21](./images/10-21.png)
 10/22 | [Nut Day](https://www.daysoftheyear.com/days/nut-day) | ![10-22](./images/10-22.png)
