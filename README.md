@@ -88,6 +88,7 @@ Day | Link | Duck of the day
 10/21 | [Apple Day](https://www.daysoftheyear.com/days/apple-day) | ![10-21](./images/10-21.png)
 10/22 | [Nut Day](https://www.daysoftheyear.com/days/nut-day) | ![10-22](./images/10-22.png)
 10/23 | [Mole Day](https://www.daysoftheyear.com/days/mole-day) | ![10-23](./images/10-23.png)
+10/24 | [United Nations Day](https://www.daysoftheyear.com/days/united-nations-day) | ![10-24](./images/10-24.png)
 10/31 | [Dark Matter Day](https://www.darkmatterday.com/) | ![10-31](./images/10-31.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
