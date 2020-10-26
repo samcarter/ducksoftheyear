@@ -90,6 +90,7 @@ Day | Link | Duck of the day
 10/23 | [Mole Day](https://www.daysoftheyear.com/days/mole-day) | ![10-23](./images/10-23.png)
 10/24 | [United Nations Day](https://www.daysoftheyear.com/days/united-nations-day) | ![10-24](./images/10-24.png)
 10/25 | [International Artists Day](https://www.daysoftheyear.com/days/international-artists-day) | ![10-25](./images/10-25.png)
+10/27 | [Black Cat Day](https://www.daysoftheyear.com/days/black-cat-day) | ![10-26](./images/10-26.png)
 10/31 | [Dark Matter Day](https://www.darkmatterday.com/) | ![10-31](./images/10-31.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
