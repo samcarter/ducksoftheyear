@@ -93,5 +93,6 @@ Day | Link | Duck of the day
 10/27 | [Black Cat Day](https://www.daysoftheyear.com/days/black-cat-day) | ![10-27](./images/10-27.png)
 10/28 | [Plush Animal Lovers Day](https://www.daysoftheyear.com/days/plush-animal-lovers-day) | ![10-28](./images/10-28.png)
 10/31 | [Dark Matter Day](https://www.darkmatterday.com/) | ![10-31](./images/10-31.png)
+11/05 | [Love your Red Hair Day](https://www.daysoftheyear.com/days/love-your-red-hair-day) | ![11-05](./images/11-05.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
