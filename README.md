@@ -94,5 +94,6 @@ Day | Link | Duck of the day
 10/28 | [Plush Animal Lovers Day](https://www.daysoftheyear.com/days/plush-animal-lovers-day) | ![10-28](./images/10-28.png)
 10/31 | [Dark Matter Day](https://www.darkmatterday.com/) | ![10-31](./images/10-31.png)
 11/05 | [Love your Red Hair Day](https://www.daysoftheyear.com/days/love-your-red-hair-day) | ![11-05](./images/11-05.png)
+11/06 | [Saxophone Day](https://www.daysoftheyear.com/days/saxophone-day) | ![11-06](./images/11-06.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
