@@ -96,5 +96,6 @@ Day | Link | Duck of the day
 11/05 | [Love your Red Hair Day](https://www.daysoftheyear.com/days/love-your-red-hair-day) | ![11-05](./images/11-05.png)
 11/06 | [Saxophone Day](https://www.daysoftheyear.com/days/saxophone-day) | ![11-06](./images/11-06.png)
 11/07 | [Hug a Bear Day](https://www.daysoftheyear.com/days/hug-a-bear-day) | ![11-07](./images/11-07.png)
+11/12 | [Fancy Rat & Mouse Day](https://www.daysoftheyear.com/days/fancy-rat-mouse-day) | ![11-12](./images/11-12.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
