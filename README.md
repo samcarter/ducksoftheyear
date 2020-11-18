@@ -99,6 +99,7 @@ Day | Link | Duck of the day
 11/10 | [Vanilla Cupcake Day](https://www.daysoftheyear.com/days/vanilla-cupcake-day) | ![11-10](./images/11-10.png)
 11/12 | [Fancy Rat & Mouse Day](https://www.daysoftheyear.com/days/fancy-rat-mouse-day) | ![11-12](./images/11-12.png)
 11/16 | [Have a Party with Your Bear Day](https://www.daysoftheyear.com/days/have-a-party-with-your-bear-day) | ![11-16](./images/11-16.png)
+11/18 | [Princess Day](https://www.daysoftheyear.com/days/princess-day) | ![11-18](./images/11-18.png)
 
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
