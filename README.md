@@ -103,7 +103,7 @@ Day | Link | Duck of the day
 11/21 | [Red Mitten Day](https://www.daysoftheyear.com/days/red-mitten-day) | ![11-21](./images/11-21.png)
 11/23 | [Espresso Day](https://www.daysoftheyear.com/days/espresso-day) | ![11-23](./images/11-23.png)
 12/01 | [Giving Tuesday](https://www.daysoftheyear.com/days/giving-tuesday) | ![12-01](./images/12-01.png)
-
 12/04 | [Bartender Appreciation Day](https://www.daysoftheyear.com/days/bartender-appreciation-day) | ![12-04](./images/12-04.png)
+12/05 | [Ninja Day](https://www.daysoftheyear.com/days/ninja-day) | ![12-05](./images/12-05.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
