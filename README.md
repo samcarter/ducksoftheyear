@@ -106,5 +106,6 @@ Day | Link | Duck of the day
 12/04 | [Bartender Appreciation Day](https://www.daysoftheyear.com/days/bartender-appreciation-day) | ![12-04](./images/12-04.png)
 12/05 | [Ninja Day](https://www.daysoftheyear.com/days/ninja-day) | ![12-05](./images/12-05.png)
 12/06 | [Miners' Day](https://www.daysoftheyear.com/days/miners-day) | ![12-06](./images/12-06.png)
+12/07 | [International Civil Aviation Day](https://www.daysoftheyear.com/days/international-civil-aviation-day) | ![12-07](./images/12-07.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
