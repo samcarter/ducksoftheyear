@@ -109,5 +109,6 @@ Day | Link | Duck of the day
 12/07 | [International Civil Aviation Day](https://www.daysoftheyear.com/days/international-civil-aviation-day) | ![12-07](./images/12-07.png)
 12/16 | [Chocolate Covered Anything Day](https://www.daysoftheyear.com/days/chocolate-covered-anything-day) | ![12-16](./images/12-16.png)
 12/18 | [Ugly Sweater Day](https://www.daysoftheyear.com/days/ugly-christmas-sweater-day) | ![12-18](./images/12-18.png)
+12/19 | [Look for an Evergreen Day](https://www.daysoftheyear.com/days/look-for-an-evergreen-day) | ![12-19](./images/12-19.png)
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
