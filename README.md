@@ -111,5 +111,7 @@ Day | Link | Duck of the day
 12/18 | [Ugly Sweater Day](https://www.daysoftheyear.com/days/ugly-christmas-sweater-day) | ![12-18](./images/12-18.png)
 12/19 | [Look for an Evergreen Day](https://www.daysoftheyear.com/days/look-for-an-evergreen-day) | ![12-19](./images/12-19.png)
 12/20 | [Games Day](https://www.daysoftheyear.com/days/games-day) | ![12-20](./images/12-20.png)
+12/29 | [Tick Tock Day](https://www.daysoftheyear.com/days/tick-tock-day) | ![12-29](./images/12-29.png)
+
 
 <sub><a name="myfootnote1">1</a>: Image created by @u-fischer </sub>
