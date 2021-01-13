@@ -4,8 +4,8 @@ A collection of duck pictures celebrating holidays from (mostly) [daysoftheyear]
  
 Day | Link | Duck of the day 
 --- | --- | --- 
-01/11 | [Milk Day](https://www.daysoftheyear.com/days/milk-day) | ![01-11](./images/01-11.png)
-01/13 | [Rubber Duckie Day](https://www.daysoftheyear.com/days/rubber-duckie-day) | ![./images/01-13.png]
+01/11 | [Milk Day](https://www.daysoftheyear.com/days/milk-day) |  ![01-11](./images/01-11.png) 
+01/13 | [Rubber Duckie Day](https://www.daysoftheyear.com/days/rubber-duckie-day) | ![01-13](./images/01-13.png) 
 02/18 | [Drink Wine Day](https://www.daysoftheyear.com/days/drink-wine-day) | ![02-18](./images/02-18.png) 
 03/10 | [International Bagpipe Day](https://www.daysoftheyear.com/days/international-bagpipe-day) | ![03-10](./images/03-10.png)<sup>[1](#myfootnote1)</sup> 
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
