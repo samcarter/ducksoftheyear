@@ -13,6 +13,7 @@ Day | Link | Duck of the day
 02/10 | [Umbrella Day](https://www.daysoftheyear.com/days/umbrella-day) | ![02-10](./images/02-10.png)   
 02/11 | [White Shirt Day](https://www.daysoftheyear.com/days/white-shirt-day) | ![02-11](./images/02-11.png)  
 02/12 | [Darwin Day](https://www.daysoftheyear.com/days/darwin-day) | ![02-12](./images/02-12.png)
+02/14 | [Marriage Day](https://www.daysoftheyear.com/days/marriage-day) | ![02-14](./images/02-14.png)
 02/15 | [Hippo Day](https://www.daysoftheyear.com/days/hippo-day) | ![02-15](./images/02-15.png)
 02/18 | [Drink Wine Day](https://www.daysoftheyear.com/days/drink-wine-day) | ![02-18](./images/02-18.png) 
 03/10 | [International Bagpipe Day](https://www.daysoftheyear.com/days/international-bagpipe-day) | ![03-10](./images/03-10.png)<sup>[1](#myfootnote1)</sup> 
