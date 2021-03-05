@@ -19,6 +19,7 @@ Day | Link | Duck of the day
 02/24 | [Pink Day](https://www.daysoftheyear.com/days/pink-day) | ![02-24](./images/02-24.png)
 03/01 | [Pig Day](https://www.daysoftheyear.com/days/pig-day) | ![03-01](./images/03-01.png) 
 03/04 | [Marching Band Day](https://www.daysoftheyear.com/days/marching-band-day) | ![03-04](./images/03-04.png) 
+03/05 | [Day of Unplugging](https://www.daysoftheyear.com/days/day-of-unplugging) | ![03-05](./images/03-05.png) 
 03/10 | [International Bagpipe Day](https://www.daysoftheyear.com/days/international-bagpipe-day) | ![03-10](./images/03-10.png)<sup>[1](#myfootnote1)</sup> 
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
