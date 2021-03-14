@@ -22,6 +22,7 @@ Day | Link | Duck of the day
 03/05 | [Day of Unplugging](https://www.daysoftheyear.com/days/day-of-unplugging) | ![03-05](./images/03-05.png) 
 03/10 | [International Bagpipe Day](https://www.daysoftheyear.com/days/international-bagpipe-day) | ![03-10](./images/03-10.png)<sup>[1](#myfootnote1)</sup>
 03/12 | [Girl Scout Day](https://www.daysoftheyear.com/days/girl-scout-day) | ![03-12](./images/03-12.png) 
+03/14 | [Pi Day](https://www.daysoftheyear.com/days/pi-day) | ![03-14](./images/03-14.png) 
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
