@@ -28,6 +28,7 @@ Day | Link | Duck of the day
 03/17 | [Saint Patrick's Day](https://www.daysoftheyear.com/days/saint-patricks-day)| ![03-17](./images/03-17.png)
 03/19 | [Poultry Day](https://www.daysoftheyear.com/days/poultry-day)| ![03-19](./images/03-19.png)
 03/22 | [World Water Day](https://www.daysoftheyear.com/days/world-water-day)| ![03-22](./images/03-22.png)
+03/26 | [Purple Day](https://www.daysoftheyear.com/days/purple-day)| ![03-26](./images/03-26.png)
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
