@@ -34,6 +34,7 @@ Day | Link | Duck of the day
 04/07 | [Beaver Day](https://www.daysoftheyear.com/days/beaver-day) | ![04-07](./images/04-07.png)  
 04/08 | [Pygmy Hippo Day](https://www.daysoftheyear.com/days/pygmy-hippo-day) | ![04-08](./images/04-08.png)    
 04/09 | [Unicorn Day](https://www.daysoftheyear.com/days/unicorn-day) | ![04-09](./images/04-09.png) 
+04/12 | [Hamster Day](https://www.daysoftheyear.com/days/hamster-day) | ![04-12](./images/04-12.png) 
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
