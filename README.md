@@ -38,6 +38,7 @@ Day | Link | Duck of the day
 04/13 | [Scrabble Day](https://www.daysoftheyear.com/days/scrabble-day) | ![04-13](./images/04-13.png)  
 04/16 | [Save the Elephant Day](https://www.daysoftheyear.com/days/save-the-elephant-day) | ![04-16](./images/04-16.png)  
 04/20 | [Chinese Language Day](https://www.daysoftheyear.com/days/chinese-language-day) | ![04-20](./images/04-20.png)
+04/22 | [Earth Day](https://www.daysoftheyear.com/days/earth-day) | ![04-22](./images/04-22.png)
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
