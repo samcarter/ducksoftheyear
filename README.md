@@ -41,6 +41,7 @@ Day | Link | Duck of the day
 04/22 | [Earth Day](https://www.daysoftheyear.com/days/earth-day) | ![04-22](./images/04-22.png)
 04/23 | [Talk Like Shakespeare Day](https://www.daysoftheyear.com/days/talk-like-shakespeare-day) | ![04-23](./images/04-23.png)
 04/25 | [World Penguin Day](https://www.daysoftheyear.com/days/world-penguin-day) | ![04-25](./images/04-25.png)
+04/26 | [Hug an Australian Day](https://www.daysoftheyear.com/days/hug-an-australian-day) | ![04-26](./images/04-26.png)
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
