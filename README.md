@@ -45,6 +45,7 @@ Day | Link | Duck of the day
 04/27 | [World Tapir Day](https://www.daysoftheyear.com/days/world-tapir-day) | ![04-27](./images/04-27.png)
 04/28 | [Superhero Day](https://www.daysoftheyear.com/days/superhero-day) | ![04-28](./images/04-28.png)
 05/03 | [Paranormal Day](https://www.daysoftheyear.com/days/paranormal-day) | ![05-03](./images/05-03.png)
+05/04 | [Star Wars Day](https://www.daysoftheyear.com/days/star-wars-day) | ![05-04](./images/05-04.png)
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
