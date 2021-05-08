@@ -47,6 +47,7 @@ Day | Link | Duck of the day
 05/03 | [Paranormal Day](https://www.daysoftheyear.com/days/paranormal-day) | ![05-03](./images/05-03.png)
 05/04 | [Star Wars Day](https://www.daysoftheyear.com/days/star-wars-day) | ![05-04](./images/05-04.png)
 05/05 | [World Maths Day](https://www.daysoftheyear.com/days/world-maths-day) | ![05-05](./images/05-05.png)
+05/08 | [World Donkey Day](https://www.daysoftheyear.com/days/world-donkey-day/) | ![05-08](./images/05-08.png)
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
