@@ -51,6 +51,7 @@ Day | Link | Duck of the day
 05/08 | [World Donkey Day](https://www.daysoftheyear.com/days/world-donkey-day/) | ![05-08](./images/05-08.png)
 05/10 | [Golf Day](https://www.daysoftheyear.com/days/golf-day) | ![05-10](./images/05-10.png) 
 05/12 | [International Nurses Day](https://www.daysoftheyear.com/days/international-nurses-day) | ![05-12](./images/05-12.png) 
+05/14 | [Shades Day](https://www.daysoftheyear.com/days/shades-day) | ![05-14](./images/05-14.png) 
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
