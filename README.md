@@ -53,6 +53,7 @@ Day | Link | Duck of the day
 05/12 | [International Nurses Day](https://www.daysoftheyear.com/days/international-nurses-day) | ![05-12](./images/05-12.png) 
 05/14 | [Shades Day](https://www.daysoftheyear.com/days/shades-day) | ![05-14](./images/05-14.png) 
 05/15 | [International Astronomy Day](https://www.daysoftheyear.com/days/astronomy-day) | ![05-15](./images/05-15.png) 
+05/16 | [Waiters Day](https://www.daysoftheyear.com/days/waiters-day) | ![05-16](./images/05-16.png) 
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
