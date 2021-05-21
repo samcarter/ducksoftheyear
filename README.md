@@ -58,6 +58,7 @@ Day | Link | Duck of the day
 05/18 | [Museum Day](https://www.daysoftheyear.com/days/museum-day) | ![05-18](./images/05-18.png) 
 05/20 | [World Bee Day](https://www.daysoftheyear.com/days/world-bee-day) | ![05-20](./images/05-20.png) 
 05/21 | [Pizza Party Day](https://www.daysoftheyear.com/days/pizza-party-day) | ![05-21](./images/05-21.png) 
+05/22 | [Maritime Day](https://www.daysoftheyear.com/days/maritime-day) | ![05-22](./images/05-22.png) 
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
