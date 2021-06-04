@@ -1,6 +1,8 @@
 # ducksoftheyear
 
 A collection of duck pictures celebrating holidays from (mostly) [daysoftheyear](https://www.daysoftheyear.com)
+
+[some of the holidays are not on the same day every year, but follow some pattern like "first Monday of May", they will be listed for the day they occurred when I added them to the list]
  
 Day | Link | Duck of the day 
 --- | --- | --- 
