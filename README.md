@@ -68,6 +68,7 @@ Day | Link | Duck of the day
 06/04 | [Hug your Cat Day](https://www.daysoftheyear.com/days/hug-your-cat-day) | ![06-04](./images/06-04.png) 
 06/07 | [Chocolate Ice Cream Day](https://www.daysoftheyear.com/days/chocolate-ice-cream-day) | ![06-07](./images/06-07.png) 
 06/14 | [Cupcake Day](https://www.daysoftheyear.com/days/cupcake-day) | ![06-14](./images/06-14.png) 
+06/15 | [Happy Nature Photography Day](https://www.daysoftheyear.com/days/nature-photography-day) | ![06-15](./images/06-15.png) 
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
