@@ -71,6 +71,7 @@ Day | Link | Duck of the day
 06/15 | [Nature Photography Day](https://www.daysoftheyear.com/days/nature-photography-day) | ![06-15](./images/06-15.png) 
 06/16 | [Fresh Veggies Day](https://www.daysoftheyear.com/days/fresh-veggies-day) | ![06-16](./images/06-16.png) 
 06/18 | [Sushi Day](https://www.daysoftheyear.com/days/sushi-day) | ![06-18](./images/06-18.png)<sup>[2](#myfootnote2)</sup>
+06/19 | [Martini Day](https://www.daysoftheyear.com/days/martini-day) | ![06-19](./images/06-19.png)
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
