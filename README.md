@@ -78,6 +78,7 @@ Day | Link | Duck of the day
 06/25 | [Bubblegum Day](https://www.daysoftheyear.com/days/bubblegum-day) | ![06-25](./images/06-25.png)
 06/28 | [Heart Hugs Day](https://www.daysoftheyear.com/days/happy-heart-hugs-day) | ![06-28](./images/06-28.png)    
 06/29 | [Camera Day](https://www.daysoftheyear.com/days/camera-day) | ![06-29](./images/06-29.png) 
+07/05 | [Bikini Day](https://www.daysoftheyear.com/days/bikini-day) | ![07-05](./images/07-05.png) 
 07/20 | [International Chess Day](https://www.daysoftheyear.com/days/international-chess-day) | ![07-20](./images/07-20.png)
 07/23 | [Vanilla Ice Cream Day](https://www.daysoftheyear.com/days/vanilla-ice-cream-day) | ![07-23](./images/07-23.png)
 07/24 | [Tequila Day](https://www.daysoftheyear.com/days/tequila-day) | ![07-24](./images/07-24.png)
